@@ -1,0 +1,9 @@
+* {
+    font-family: helvetica;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(92, 30, 30);
+    color: white;
+}
